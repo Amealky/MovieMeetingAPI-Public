@@ -1,0 +1,14 @@
+{
+  "db": {
+    "host"     : "",
+    "user"     : "...",
+    "password" : "...",
+    "database" : "mydb",
+    "port": XXXX
+  },
+  "api-key": "",
+  "security":{
+    "salt": "",
+    "tokenExpiration": 
+  }
+}

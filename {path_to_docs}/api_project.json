@@ -1,0 +1,1 @@
+{  "name": "movie-meeting-api",  "version": "0.0.1",  "description": "MovieMeeting's api",  "title": "MovieMeetingAPI",  "url": "[url]",  "sampleUrl": false,  "defaultVersion": "0.0.0",  "apidoc": "0.3.0",  "generator": {    "name": "apidoc",    "time": "2018-10-02T18:34:03.685Z",    "url": "http://apidocjs.com",    "version": "0.17.6"  }}
